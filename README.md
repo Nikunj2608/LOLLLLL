@@ -1,6 +1,6 @@
 # LOLLLLL
 <div>
   <p>
-    This is Leetcode Submissions repo 
+    This is a Leetcode Submissions repo 
   </p>
 </div>
